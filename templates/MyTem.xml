@@ -1,0 +1,19 @@
+<templateSet group="MyTem">
+  <template name="syserr" value="System.err.println(&quot;$END$&quot;);" description="Prints a string to System.err" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="sysout" value="System.out.println($END$);" description="Prints a string to System.out" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cmmt" value="/**&#10; * &#10; * @author: gdx&#10; * @date: $date$ $time$&#10; * @param&#10; * @return&#10; */" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
