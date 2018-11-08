@@ -6,8 +6,12 @@
           <option name="url" value="https://gitee.com/gdx366/springboot_applets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/gdx366/springboot_lean.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workspace" />
+    <option name="cloneParentDir" value="E:\workspace\springboot" />
   </component>
 </application>
