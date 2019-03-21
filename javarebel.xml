@@ -7,7 +7,7 @@
         <entry key="com.zeroturnaround.jrebel.NoExternalAutoconvert" value="false" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.enabled" value="true" />
         <entry key="com.zeroturnaround.jrebel.intellij.autocompile.feature-seen" value="true" />
-        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.1.6" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2018.2.7" />
       </map>
     </option>
     <option name="javaRebelPath" value="C:\Users\Administrator.LENOVO\.IntelliJIdea2018.2\config\plugins\jr-ide-idea\lib\jrebel6\jrebel.jar" />
